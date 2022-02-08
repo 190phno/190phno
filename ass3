@@ -1,0 +1,3 @@
+km=int(input('enter the kilometer value'))
+cm=100000*km
+print('after converting kilometer into centimeter',cm)
